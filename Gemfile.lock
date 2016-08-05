@@ -1,0 +1,14 @@
+GEM
+  remote: https://www.rubygems.org/
+  specs:
+    ffaker (2.2.0)
+    my_obfuscate (0.5.4)
+      ffaker
+      walker_method
+    walker_method (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  my_obfuscate
